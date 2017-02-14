@@ -1,0 +1,20 @@
+Service & Labour: €199.00
+Parts: €1.00
+Tax (on parts): €0.23
+Total Fees: €200.23
+
+Service & Labour: €200.00
+Parts: €2.00
+Tax (on parts): €0.46
+Total Fees: €202.46
+
+Service & Labour: €91.00
+Parts: €100.00
+Tax (on parts): €23.00
+Total Fees: €214.00
+
+Service & Labour: €91.00
+Parts: €100.00
+Tax (on parts): €23.00
+Total Fees: €214.00
+
